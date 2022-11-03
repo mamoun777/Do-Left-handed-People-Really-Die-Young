@@ -10,7 +10,7 @@
 
 -------
 
-## 📌 Les étapes du projet
+## 📌 Les étapes du projet :
 ###### 1. Où sont les vieux gauchers ?
 ###### 2. Taux de gaucher au fil du temps
 ###### 3. Application de la règle de Bayes
@@ -23,13 +23,13 @@
 ###### 10. Commentaires finaux
 
 
-## 📌 Analyse
+## 📌 Analyse :
 ##### 🔖 Nous apprendrons à travailler avec les données en utilisant des bibliothèques libres populaires disponibles en Python : `numby` `matplotlib` et `pandas` 
 	✔️import pandas as pd
 	✔️import matplotlib.pyplot as plt
 	✔️import numpy as np
 
-##### Lecture des données du prix Nobel
+##### Lecture des données des gauchers
 ######  📄 data_url_1 = "https://gist.githubusercontent.com/mbonsma/8da0990b71ba9a09f7de395574e54df1/raw/aec88b30af87fad8d45da7e774223f91dad09e88/lh_data.csv"
 
 ###### lefthanded_data = pd.read_csv(data_url_1)
