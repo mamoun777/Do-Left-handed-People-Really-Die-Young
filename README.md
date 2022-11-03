@@ -86,6 +86,6 @@ en calculant la moyenne de ces distributions de probabilité de la même manièr
 #####âge des gauchers et des droitiers au décès
 ![img](./images/thmanya.PNG)
 
-######Âge moyen des gauchers67,24503662801027
-######Âge moyen des droitiers72,79171936526477
-######La différence d'âge moyen est de 5,5 ans..
+###### Âge moyen des gauchers67,24503662801027
+###### Âge moyen des droitiers72,79171936526477
+###### La différence d'âge moyen est de 5,5 ans..
