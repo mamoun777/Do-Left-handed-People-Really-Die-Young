@@ -52,6 +52,8 @@
 ######Puisque l'étude a été réalisée en 1986, les données après cette conversion seront le pourcentage de personnes vivantes en 1986 qui sont gauchers en fonction de l'année de leur naissance.
 ![img](./images/thnin.PNG)
 
+-------
+
 #### la théorème utilisée
 La probabilité de mourir à un certain âge sachant qu'on est gaucher n'est pas égale à la probabilité d'être gaucher sachant qu'on est mort à un certain âge. Cette inégalité est la raison pour laquelle nous avons besoin du théorème de Bayes, une déclaration sur la probabilité conditionnelle qui nous permet de mettre à jour nos croyances après avoir vu des preuves.
 
@@ -59,9 +61,9 @@ On veut calculer la probabilité de mourir à l'âge A sachant que l'on est gauc
 
 ![img](./images/tletha.PNG)
 
-######P(LH | A) est la probabilité que vous soyez gaucher étant donné que vous êtes décédé à l'âge A. 
-######P(A) est la probabilité globale de mourir à l'âge A.
-######P(LH) est la probabilité globale d'être gaucher. 
+###### P(LH | A) est la probabilité que vous soyez gaucher étant donné que vous êtes décédé à l'âge A. 
+###### P(A) est la probabilité globale de mourir à l'âge A.
+###### P(LH) est la probabilité globale d'être gaucher. 
 -------
 #### Quand les gens meurent-ils normalement ?
 
