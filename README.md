@@ -49,7 +49,7 @@
 ------
 #### 📊les taux de gaucher en fonction de l'année de naissance, et moyenne sur homme et femme pour obtenir un taux unique pour les deux sexes.
 
-######Puisque l'étude a été réalisée en 1986, les données après cette conversion seront le pourcentage de personnes vivantes en 1986 qui sont gauchers en fonction de l'année de leur naissance.
+###### Puisque l'étude a été réalisée en 1986, les données après cette conversion seront le pourcentage de personnes vivantes en 1986 qui sont gauchers en fonction de l'année de leur naissance.
 ![img](./images/thnin.PNG)
 
 -------
@@ -72,10 +72,12 @@ Pour estimer la probabilité de vivre jusqu'à un âge A, nous pouvons utiliser 
 ![img](./images/arba3.PNG)
 -------
 #### Probabilité globale d'être gaucher si vous décédez au cours de l'année d'étude = 0.07766387615350638
-######en utilisant cette théorème 
+###### en utilisant cette théorème 
 ![img](./images/5amsa.PNG)
--------
+
 #### La probabilité globale d'avoir un "age_of_death" particulier étant donné que vous êtes gaucher
+
+###### en utilisant cette théorème 
 ![img](./images/setta.PNG)
 
 -------
